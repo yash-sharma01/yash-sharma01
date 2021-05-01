@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  <img src="Software Engineer-white.gif" width="600px" />
+</p>
 
-<!--
-**yash-sharma01/yash-sharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+- 🔭 Currently working on ReactJS
+- 🌱 Learning Front end Web Development
+- 😄 Pronouns: He/Him
+- 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
+- 📫 Reach me at: <a href="mailto:yashsharma1859@gmail.com">yashsharma1859@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Github Stats
+
+<a href="https://github.com/yash-sharma01/yash-sharma01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sharma01&show_icons=true&theme=tokyonight" alt="Yash's GitHub Stats" />
+</a>
+
+### 👨‍💻 Total Visitors 
+
+<img src="https://profile-counter.glitch.me/yash-sharma01/count.svg" /><br>

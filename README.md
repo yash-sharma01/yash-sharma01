@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="Software Engineer-white.gif" width="600px" />
+  <img src="dev.gif" width="600px" />
 </p>
 
-## Hi there 👋
+<br/>
+
+## 👋 Hi there 
 
 - 🔭 Currently working on ReactJS
 - 🌱 Learning Front end Web Development
@@ -10,12 +12,34 @@
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
 - 📫 Reach me at: <a href="mailto:yashsharma1859@gmail.com">yashsharma1859@gmail.com</a>
 
-### ⚡ Github Stats
+<br/>
 
-<a href="https://github.com/yash-sharma01/yash-sharma01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sharma01&show_icons=true&theme=tokyonight" alt="Yash's GitHub Stats" />
-</a>
+ ## 🧨 My user experiences are:
 
-### 👨‍💻 Total Visitors 
+- **Intuitive 🤩**
+- **Dynamic 🧬**
+- **Reusable ♻️**
+- **Crafted with good code ✨**
+- **Secure 🛡️**
+- **Load blazing fast 🚀**
+- **Optimized 🔍**
 
-<img src="https://profile-counter.glitch.me/yash-sharma01/count.svg" /><br>
+<br/>
+
+## 🎈 Some technologies I use:
+
+<p align="center">
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code> &nbsp;&nbsp;
+<!-- <code><img height="75" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code> &nbsp;&nbsp; -->
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> &nbsp;&nbsp;
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sharma01&layout=compact)](https://github.com/yash-sharma01)

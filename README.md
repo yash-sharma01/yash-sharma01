@@ -6,8 +6,8 @@
 
 ## 👋 Hi there 
 
-- 🔭 Currently working on ReactJS
-- 🌱 Learning Front end Web Development
+- 🔭 Currently working on MERN Stack
+- 🌱 Learning Full Stack Development
 - 😄 Pronouns: He/Him
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
 - 📫 Reach me at: <a href="mailto:yashsharma1859@gmail.com">yashsharma1859@gmail.com</a>

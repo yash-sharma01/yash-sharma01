@@ -7,7 +7,7 @@
 ## 👋 Hi there 
 
 - 🔭 A Full Stack Developer
-- 🌱 Learning Mobile App Development
+- 🌱 Getting better daily
 - 😄 Pronouns: He/Him
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
 - 📫 Reach me at: <a href="mailto:yashsharma1859@gmail.com">yashsharma1859@gmail.com</a>
@@ -30,11 +30,13 @@
 
 <p align="center">
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code> &nbsp;&nbsp;
+<code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code> &nbsp;&nbsp;
 <!-- <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code> &nbsp;&nbsp; -->
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code> &nbsp;&nbsp;
+<code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code> &nbsp;&nbsp;
 <code><img height="75" width="75" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code> &nbsp;&nbsp;

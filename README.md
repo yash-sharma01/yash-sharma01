@@ -75,6 +75,6 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/abhii6700/abhii6700">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhii6700&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub Stats" />
+<a href="https://github.com/yash-sharma01/yash-sharma01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sharma01&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub Stats" />
 </a>

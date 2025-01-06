@@ -9,7 +9,7 @@
 - 🔭 A Full Stack Developer
 - 🌱 Getting better daily
 - 😄 Pronouns: He/Him
-- 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
+- 💬 Let's discuss Trending Techs, LLMs, AI Agents, Automation & Stuff.
 - 📫 Reach me at: <a href="mailto:yashsharma1859@gmail.com">yashsharma1859@gmail.com</a>
 
 <br/>

@@ -1,9 +1,9 @@
-<p align="center">
+<!--<p align="center">
   <img src="dev.gif" width="600px" />
 </p>
 
 <br/>
-
+-->
 ## 👋 Hi there 
 
 - 🔭 A Full Stack Developer
